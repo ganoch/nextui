@@ -25,8 +25,6 @@ const skeleton = tv({
       "before:inset-0",
       "before:-translate-x-full",
       "before:animate-[shimmer_2s_infinite]",
-      "before:border-t",
-      "before:border-content4/30",
       "before:bg-gradient-to-r",
       "before:from-transparent",
       "before:via-content4",
